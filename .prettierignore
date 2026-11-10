@@ -1,0 +1,9 @@
+package-lock.json
+node_modules
+.next
+dist
+coverage
+backend/src/generated
+specs.md
+backend/prisma/migrations
+frontend/next-env.d.ts
